@@ -19,7 +19,9 @@ vagrant/
 inventory/*
 !inventory/local
 !inventory/sample
+!inventory/filcloud
 inventory/*/artifacts/
+inventory/*/credentials/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
